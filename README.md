@@ -1,6 +1,6 @@
 # Build-Dynamic-FSA
 
-this assignment is to implement the dynamic finite state automaton
+This assignment is to implement the dynamic finite state automaton
 that recognizes none initially, but some after reading files Input1 and Input2.
 
 Use a transition list that links transitions out of each state together. 
