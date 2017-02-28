@@ -32,6 +32,7 @@ public class DynamicFiniteStateAutomaton {
 
 	public static void main(String[] args) throws Exception {
 
+		// Fill both arrays with -1 meaning its empty
 		Arrays.fill(switchh, -1);
 		Arrays.fill(next, -1);
 
