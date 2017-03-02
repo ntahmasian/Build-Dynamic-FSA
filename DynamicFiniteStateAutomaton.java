@@ -64,6 +64,7 @@ public class DynamicFiniteStateAutomaton {
 			buildTheSymbolArray(word);
 
 		}
+		//print out all the arrays
 		print();
 	}
 
